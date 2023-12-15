@@ -1,1 +1,1 @@
-alert("suscribete a nuestro proximo evento)
+alert("suscribete a nuestro proximo evento")
