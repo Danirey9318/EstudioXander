@@ -1,6 +1,6 @@
 body
 {
-    color: rgb(250, 247, 247);
+    color: rgb(248, 117, 10);
 
     background-color: rgb(7, 7, 7);
     text-align: center;
@@ -11,7 +11,7 @@ body
 
 #cabecera 
 {
-    background: rgb(216, 141, 3);
+    background: rgb(75, 204, 0);
     box-shadow: 0px 2px 20px 0px grey(0,0,0,0.5);
     color: rgb(247, 242, 242);
     font-weight: bold;

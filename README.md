@@ -1,2 +1,2 @@
 # EstudioXander
-Repo inicial para EstudioXander, destinado a la fotografia
+Repo inicial para EstudioXander, principal estudio de fotografia de todo latinoamerica especialmente Colombia
